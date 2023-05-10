@@ -1711,3 +1711,4 @@ Fix bug 729-2
 Fix bug 729-3
 Initial commit 729-4
 Style fixes 729-5
+Add new feature 730-1
