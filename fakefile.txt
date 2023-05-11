@@ -1707,3 +1707,4 @@ Add new feature 727-5
 Refactor code 728-1
 Improve performance 728-2
 Update README 729-1
+Fix bug 729-2
