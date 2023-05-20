@@ -1685,3 +1685,4 @@ Style fixes 719-1
 Update README 719-2
 Style fixes 719-3
 Minor changes 719-4
+Cleanup 720-1
