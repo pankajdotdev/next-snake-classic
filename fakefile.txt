@@ -1676,3 +1676,4 @@ Minor changes 715-3
 Add docs 716-1
 Add new feature 716-2
 Initial commit 716-3
+Add docs 718-1
