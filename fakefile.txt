@@ -1658,3 +1658,4 @@ Style fixes 707-5
 Fix bug 709-1
 Style fixes 709-2
 Style fixes 710-1
+Refactor code 710-2
