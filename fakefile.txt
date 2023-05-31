@@ -1655,3 +1655,4 @@ Update README 707-2
 Improve performance 707-3
 Add new feature 707-4
 Style fixes 707-5
+Fix bug 709-1
