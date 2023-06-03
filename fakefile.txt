@@ -1649,3 +1649,4 @@ Cleanup 704-1
 Fix bug 704-2
 Improve performance 706-1
 Add new feature 706-2
+Update README 706-3
