@@ -1640,3 +1640,4 @@ Update README 701-1
 Refactor code 701-2
 Fix bug 701-3
 Cleanup 702-1
+Style fixes 703-1
