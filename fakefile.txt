@@ -1637,3 +1637,4 @@ Initial commit 700-3
 Update README 700-4
 Minor changes 700-5
 Update README 701-1
+Refactor code 701-2
