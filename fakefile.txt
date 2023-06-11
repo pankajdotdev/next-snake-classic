@@ -1627,3 +1627,4 @@ Initial commit 696-4
 Update README 697-1
 Refactor code 697-2
 Fix bug 698-1
+Add docs 698-2
