@@ -1630,3 +1630,4 @@ Fix bug 698-1
 Add docs 698-2
 Update README 698-3
 Refactor code 698-4
+Refactor code 698-5
