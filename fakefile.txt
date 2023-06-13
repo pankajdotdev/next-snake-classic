@@ -1620,3 +1620,4 @@ Add new feature 695-1
 Add new feature 695-2
 Improve performance 695-3
 Cleanup 695-4
+Update README 696-1
