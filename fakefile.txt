@@ -1586,3 +1586,4 @@ Update README 679-1
 Add new feature 679-2
 Add docs 680-1
 Style fixes 680-2
+Fix bug 680-3
