@@ -1579,3 +1579,4 @@ Style fixes 674-1
 Cleanup 674-2
 Add docs 674-3
 Add docs 675-1
+Style fixes 676-1
