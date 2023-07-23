@@ -1541,3 +1541,4 @@ Fix bug 653-3
 Fix bug 653-4
 Update README 653-5
 Update README 654-1
+Minor changes 656-1
