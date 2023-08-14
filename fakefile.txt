@@ -1503,3 +1503,4 @@ Add new feature 630-3
 Add new feature 630-4
 Update README 634-1
 Add new feature 634-2
+Fix bug 634-3
