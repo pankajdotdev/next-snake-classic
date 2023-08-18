@@ -1500,3 +1500,4 @@ Style fixes 627-1
 Improve performance 630-1
 Initial commit 630-2
 Add new feature 630-3
+Add new feature 630-4
