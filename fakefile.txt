@@ -1494,3 +1494,4 @@ Add new feature 624-1
 Minor changes 624-2
 Improve performance 625-1
 Style fixes 626-1
+Add docs 626-2
