@@ -1486,3 +1486,4 @@ Improve performance 622-3
 Update README 622-4
 Add docs 622-5
 Cleanup 623-1
+Refactor code 623-2
