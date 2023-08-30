@@ -1475,3 +1475,4 @@ Style fixes 617-1
 Add docs 617-2
 Add new feature 617-3
 Cleanup 617-4
+Fix bug 618-1
