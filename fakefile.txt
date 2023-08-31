@@ -1472,3 +1472,4 @@ Minor changes 615-3
 Fix bug 615-4
 Style fixes 616-1
 Style fixes 617-1
+Add docs 617-2
