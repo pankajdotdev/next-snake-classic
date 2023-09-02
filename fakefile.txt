@@ -1469,3 +1469,4 @@ Update README 614-5
 Cleanup 615-1
 Cleanup 615-2
 Minor changes 615-3
+Fix bug 615-4
