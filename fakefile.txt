@@ -1445,3 +1445,4 @@ Style fixes 606-3
 Update README 606-4
 Fix bug 606-5
 Add new feature 607-1
+Cleanup 608-1
