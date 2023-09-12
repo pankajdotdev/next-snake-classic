@@ -1437,3 +1437,4 @@ Style fixes 602-3
 Update README 602-4
 Fix bug 604-1
 Add docs 604-2
+Fix bug 605-1
