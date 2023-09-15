@@ -1431,3 +1431,4 @@ Fix bug 599-1
 Update README 599-2
 Cleanup 599-3
 Improve performance 600-1
+Improve performance 602-1
