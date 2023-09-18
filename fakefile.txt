@@ -1429,3 +1429,4 @@ Refactor code 597-1
 Add docs 597-2
 Fix bug 599-1
 Update README 599-2
+Cleanup 599-3
