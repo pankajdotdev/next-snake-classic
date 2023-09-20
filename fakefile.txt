@@ -1425,3 +1425,4 @@ Update README 591-4
 Minor changes 594-1
 Initial commit 595-1
 Improve performance 596-1
+Refactor code 597-1
