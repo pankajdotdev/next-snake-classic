@@ -1420,3 +1420,4 @@ Fix bug 590-1
 Initial commit 590-2
 Update README 591-1
 Add new feature 591-2
+Improve performance 591-3
