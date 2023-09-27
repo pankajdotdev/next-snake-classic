@@ -1416,3 +1416,4 @@ Cleanup 589-2
 Minor changes 589-3
 Add new feature 589-4
 Style fixes 589-5
+Fix bug 590-1
