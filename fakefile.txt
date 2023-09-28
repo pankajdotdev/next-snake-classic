@@ -1415,3 +1415,4 @@ Add new feature 589-1
 Cleanup 589-2
 Minor changes 589-3
 Add new feature 589-4
+Style fixes 589-5
