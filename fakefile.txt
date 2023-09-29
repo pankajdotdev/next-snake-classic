@@ -1410,3 +1410,4 @@ Add docs 587-5
 Improve performance 588-1
 Improve performance 588-2
 Style fixes 588-3
+Fix bug 588-4
