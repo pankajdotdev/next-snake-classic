@@ -1400,3 +1400,4 @@ Add new feature 581-3
 Fix bug 582-1
 Style fixes 582-2
 Fix bug 585-1
+Style fixes 586-1
