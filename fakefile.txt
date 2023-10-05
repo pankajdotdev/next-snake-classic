@@ -1397,3 +1397,4 @@ Update README 580-1
 Refactor code 581-1
 Refactor code 581-2
 Add new feature 581-3
+Fix bug 582-1
