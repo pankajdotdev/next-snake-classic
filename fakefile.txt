@@ -1388,3 +1388,4 @@ Initial commit 576-3
 Fix bug 577-1
 Fix bug 577-2
 Add docs 577-3
+Minor changes 578-1
