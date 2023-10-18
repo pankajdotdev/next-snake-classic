@@ -1370,3 +1370,4 @@ Update README 569-1
 Fix bug 569-2
 Add new feature 569-3
 Refactor code 569-4
+Add docs 569-5
