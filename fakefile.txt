@@ -1357,3 +1357,4 @@ Fix bug 563-3
 Fix bug 564-1
 Refactor code 564-2
 Minor changes 564-3
+Minor changes 564-4
