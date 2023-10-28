@@ -1348,3 +1348,4 @@ Style fixes 558-3
 Improve performance 559-1
 Cleanup 559-2
 Add new feature 559-3
+Fix bug 559-4
