@@ -1302,3 +1302,4 @@ Fix bug 533-4
 Refactor code 534-1
 Update README 535-1
 Minor changes 536-1
+Cleanup 536-2
