@@ -1298,3 +1298,4 @@ Update README 532-2
 Fix bug 533-1
 Add docs 533-2
 Improve performance 533-3
+Fix bug 533-4
