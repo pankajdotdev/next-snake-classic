@@ -1294,3 +1294,4 @@ Style fixes 530-3
 Fix bug 531-1
 Fix bug 531-2
 Update README 532-1
+Update README 532-2
