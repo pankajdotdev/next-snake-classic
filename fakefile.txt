@@ -1287,3 +1287,4 @@ Refactor code 528-1
 Fix bug 528-2
 Minor changes 528-3
 Fix bug 529-1
+Refactor code 529-2
