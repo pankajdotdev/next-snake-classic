@@ -1284,3 +1284,4 @@ Add new feature 527-2
 Fix bug 527-3
 Add docs 527-4
 Refactor code 528-1
+Fix bug 528-2
