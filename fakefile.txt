@@ -1276,3 +1276,4 @@ Add new feature 525-3
 Minor changes 525-4
 Update README 525-5
 Initial commit 526-1
+Style fixes 526-2
