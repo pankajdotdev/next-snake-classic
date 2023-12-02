@@ -1267,3 +1267,4 @@ Add docs 522-4
 Update README 522-5
 Fix bug 524-1
 Update README 524-2
+Style fixes 524-3
