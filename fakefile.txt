@@ -1250,3 +1250,4 @@ Fix bug 513-1
 Cleanup 513-2
 Add new feature 514-1
 Add docs 514-2
+Style fixes 514-3
