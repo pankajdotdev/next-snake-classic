@@ -1247,3 +1247,4 @@ Minor changes 512-1
 Update README 512-2
 Add docs 512-3
 Fix bug 513-1
+Cleanup 513-2
