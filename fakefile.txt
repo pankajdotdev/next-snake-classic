@@ -1230,3 +1230,4 @@ Fix bug 504-2
 Refactor code 504-3
 Cleanup 504-4
 Improve performance 504-5
+Refactor code 507-1
