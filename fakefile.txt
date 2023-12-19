@@ -1232,3 +1232,4 @@ Cleanup 504-4
 Improve performance 504-5
 Refactor code 507-1
 Add docs 507-2
+Fix bug 507-3
