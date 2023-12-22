@@ -1226,3 +1226,4 @@ Add docs 503-3
 Update README 503-4
 Cleanup 503-5
 Add new feature 504-1
+Fix bug 504-2
