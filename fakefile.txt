@@ -1216,3 +1216,4 @@ Fix bug 497-3
 Improve performance 497-4
 Minor changes 497-5
 Cleanup 499-1
+Add new feature 500-1
