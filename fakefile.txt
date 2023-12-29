@@ -1212,3 +1212,4 @@ Fix bug 496-3
 Initial commit 496-4
 Fix bug 497-1
 Cleanup 497-2
+Fix bug 497-3
