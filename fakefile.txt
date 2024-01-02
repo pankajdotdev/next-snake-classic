@@ -1201,3 +1201,4 @@ Fix bug 491-1
 Add new feature 492-1
 Minor changes 493-1
 Minor changes 493-2
+Improve performance 493-3
