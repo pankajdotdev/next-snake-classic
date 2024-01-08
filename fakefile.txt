@@ -1185,3 +1185,4 @@ Style fixes 486-1
 Update README 486-2
 Fix bug 487-1
 Improve performance 487-2
+Add docs 487-3
