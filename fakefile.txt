@@ -1181,3 +1181,4 @@ Add new feature 483-3
 Add new feature 483-4
 Update README 483-5
 Fix bug 484-1
+Style fixes 486-1
