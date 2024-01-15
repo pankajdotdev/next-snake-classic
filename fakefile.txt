@@ -1170,3 +1170,4 @@ Cleanup 478-2
 Add docs 479-1
 Fix bug 479-2
 Improve performance 480-1
+Refactor code 480-2
