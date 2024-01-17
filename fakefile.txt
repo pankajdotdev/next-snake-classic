@@ -1166,3 +1166,4 @@ Cleanup 476-1
 Style fixes 476-2
 Refactor code 476-3
 Refactor code 478-1
+Cleanup 478-2
