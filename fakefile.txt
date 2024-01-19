@@ -1162,3 +1162,4 @@ Style fixes 474-5
 Fix bug 475-1
 Refactor code 475-2
 Add docs 475-3
+Cleanup 476-1
