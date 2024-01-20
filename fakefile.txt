@@ -1160,3 +1160,4 @@ Style fixes 474-3
 Refactor code 474-4
 Style fixes 474-5
 Fix bug 475-1
+Refactor code 475-2
