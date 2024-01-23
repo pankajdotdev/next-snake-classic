@@ -1150,3 +1150,4 @@ Add new feature 470-1
 Fix bug 470-2
 Update README 472-1
 Minor changes 472-2
+Cleanup 472-3
