@@ -1122,3 +1122,4 @@ Add docs 457-3
 Refactor code 457-4
 Style fixes 459-1
 Update README 459-2
+Fix bug 459-3
