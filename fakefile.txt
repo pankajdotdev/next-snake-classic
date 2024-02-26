@@ -1078,3 +1078,4 @@ Fix bug 437-1
 Minor changes 437-2
 Style fixes 437-3
 Add new feature 438-1
+Cleanup 438-2
