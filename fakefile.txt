@@ -1065,3 +1065,4 @@ Fix bug 433-3
 Minor changes 433-4
 Cleanup 434-1
 Add new feature 434-2
+Add new feature 434-3
