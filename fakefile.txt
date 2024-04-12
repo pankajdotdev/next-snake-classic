@@ -959,3 +959,4 @@ Update README 391-3
 Add new feature 391-4
 Refactor code 391-5
 Add docs 392-1
+Refactor code 392-2
