@@ -929,3 +929,4 @@ Cleanup 377-3
 Fix bug 377-4
 Add new feature 378-1
 Refactor code 378-2
+Add docs 378-3
