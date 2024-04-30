@@ -917,3 +917,4 @@ Cleanup 373-3
 Update README 373-4
 Minor changes 373-5
 Cleanup 374-1
+Refactor code 374-2
