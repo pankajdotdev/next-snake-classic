@@ -909,3 +909,4 @@ Fix bug 369-1
 Add docs 369-2
 Cleanup 369-3
 Add docs 369-4
+Add new feature 370-1
