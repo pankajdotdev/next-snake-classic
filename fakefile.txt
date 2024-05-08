@@ -896,3 +896,4 @@ Add new feature 364-5
 Update README 365-1
 Improve performance 365-2
 Initial commit 366-1
+Add new feature 366-2
