@@ -865,3 +865,4 @@ Refactor code 352-2
 Add new feature 352-3
 Cleanup 353-1
 Fix bug 353-2
+Add docs 353-3
