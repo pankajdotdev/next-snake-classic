@@ -851,3 +851,4 @@ Minor changes 344-1
 Update README 344-2
 Add new feature 345-1
 Cleanup 345-2
+Refactor code 345-3
