@@ -840,3 +840,4 @@ Style fixes 338-3
 Fix bug 339-1
 Cleanup 339-2
 Cleanup 339-3
+Minor changes 339-4
