@@ -837,3 +837,4 @@ Add docs 336-5
 Style fixes 338-1
 Improve performance 338-2
 Style fixes 338-3
+Fix bug 339-1
