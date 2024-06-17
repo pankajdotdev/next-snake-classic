@@ -809,3 +809,4 @@ Fix bug 323-1
 Improve performance 323-2
 Add new feature 323-3
 Fix bug 325-1
+Add docs 326-1
