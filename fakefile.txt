@@ -767,3 +767,4 @@ Improve performance 303-5
 Add new feature 304-1
 Improve performance 304-2
 Cleanup 304-3
+Fix bug 304-4
