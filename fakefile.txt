@@ -745,3 +745,4 @@ Style fixes 298-1
 Add new feature 298-2
 Add new feature 298-3
 Fix bug 299-1
+Improve performance 299-2
