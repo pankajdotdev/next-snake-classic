@@ -740,3 +740,4 @@ Add docs 296-1
 Refactor code 296-2
 Improve performance 296-3
 Refactor code 297-1
+Fix bug 297-2
