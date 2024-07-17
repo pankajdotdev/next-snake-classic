@@ -737,3 +737,4 @@ Fix bug 295-1
 Initial commit 295-2
 Style fixes 295-3
 Add docs 296-1
+Refactor code 296-2
