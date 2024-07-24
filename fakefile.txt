@@ -720,3 +720,4 @@ Minor changes 288-3
 Fix bug 288-4
 Improve performance 288-5
 Cleanup 289-1
+Style fixes 289-2
