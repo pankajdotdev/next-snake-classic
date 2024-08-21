@@ -645,3 +645,4 @@ Improve performance 259-3
 Initial commit 259-4
 Improve performance 259-5
 Fix bug 260-1
+Fix bug 261-1
