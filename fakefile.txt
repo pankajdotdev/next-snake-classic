@@ -636,3 +636,4 @@ Style fixes 255-1
 Add docs 255-2
 Add new feature 255-3
 Initial commit 255-4
+Refactor code 256-1
