@@ -631,3 +631,4 @@ Add new feature 252-4
 Cleanup 252-5
 Fix bug 253-1
 Fix bug 254-1
+Minor changes 254-2
