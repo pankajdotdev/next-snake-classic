@@ -629,3 +629,4 @@ Minor changes 252-2
 Improve performance 252-3
 Add new feature 252-4
 Cleanup 252-5
+Fix bug 253-1
