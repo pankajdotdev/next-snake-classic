@@ -609,3 +609,4 @@ Update README 243-4
 Refactor code 244-1
 Improve performance 244-2
 Add new feature 246-1
+Add docs 246-2
