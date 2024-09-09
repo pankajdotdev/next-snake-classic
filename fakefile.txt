@@ -600,3 +600,4 @@ Minor changes 241-2
 Style fixes 241-3
 Add docs 242-1
 Add new feature 242-2
+Fix bug 242-3
