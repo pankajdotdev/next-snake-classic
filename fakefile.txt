@@ -591,3 +591,4 @@ Cleanup 237-2
 Minor changes 237-3
 Add docs 237-4
 Refactor code 240-1
+Fix bug 240-2
