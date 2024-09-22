@@ -566,3 +566,4 @@ Minor changes 226-5
 Fix bug 227-1
 Refactor code 228-1
 Refactor code 229-1
+Fix bug 229-2
