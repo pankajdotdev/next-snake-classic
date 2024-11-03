@@ -471,3 +471,4 @@ Add new feature 186-3
 Cleanup 186-4
 Add docs 186-5
 Refactor code 187-1
+Style fixes 187-2
