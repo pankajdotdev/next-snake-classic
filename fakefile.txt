@@ -437,3 +437,4 @@ Refactor code 173-3
 Add docs 173-4
 Update README 173-5
 Fix bug 174-1
+Minor changes 175-1
