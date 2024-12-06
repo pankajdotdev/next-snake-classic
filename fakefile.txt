@@ -382,3 +382,4 @@ Fix bug 153-2
 Minor changes 153-3
 Add docs 153-4
 Update README 153-5
+Cleanup 154-1
