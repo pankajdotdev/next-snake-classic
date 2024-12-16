@@ -349,3 +349,4 @@ Add new feature 143-2
 Update README 143-3
 Fix bug 143-4
 Cleanup 143-5
+Fix bug 144-1
