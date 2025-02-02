@@ -228,3 +228,4 @@ Style fixes 94-4
 Improve performance 94-5
 Add docs 95-1
 Fix bug 95-2
+Improve performance 96-1
