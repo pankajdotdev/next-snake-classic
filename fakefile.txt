@@ -231,3 +231,4 @@ Fix bug 95-2
 Improve performance 96-1
 Add docs 96-2
 Initial commit 96-3
+Minor changes 96-4
