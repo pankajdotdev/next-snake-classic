@@ -226,3 +226,4 @@ Refactor code 94-2
 Fix bug 94-3
 Style fixes 94-4
 Improve performance 94-5
+Add docs 95-1
