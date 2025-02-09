@@ -212,3 +212,4 @@ Improve performance 86-5
 Add docs 87-1
 Cleanup 87-2
 Initial commit 89-1
+Fix bug 89-2
