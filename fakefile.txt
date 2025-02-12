@@ -205,3 +205,4 @@ Fix bug 83-3
 Add docs 83-4
 Add docs 84-1
 Cleanup 86-1
+Add new feature 86-2
