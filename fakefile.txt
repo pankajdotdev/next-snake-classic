@@ -199,3 +199,4 @@ Fix bug 81-3
 Style fixes 81-4
 Cleanup 81-5
 Add docs 82-1
+Minor changes 83-1
