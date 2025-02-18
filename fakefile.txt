@@ -192,3 +192,4 @@ Initial commit 78-2
 Style fixes 79-1
 Add docs 80-1
 Minor changes 80-2
+Refactor code 80-3
