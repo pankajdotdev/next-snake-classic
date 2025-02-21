@@ -186,3 +186,4 @@ Refactor code 76-1
 Improve performance 76-2
 Add docs 76-3
 Cleanup 77-1
+Fix bug 77-2
