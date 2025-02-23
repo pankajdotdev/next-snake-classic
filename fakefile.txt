@@ -178,3 +178,4 @@ Minor changes 74-2
 Fix bug 74-3
 Fix bug 74-4
 Update README 74-5
+Style fixes 75-1
