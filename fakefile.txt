@@ -74,3 +74,4 @@ Add new feature 31-2
 Add new feature 31-3
 Fix bug 31-4
 Add docs 32-1
+Minor changes 32-2
