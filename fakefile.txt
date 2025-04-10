@@ -65,3 +65,4 @@ Update README 28-3
 Style fixes 28-4
 Fix bug 28-5
 Minor changes 29-1
+Improve performance 29-2
