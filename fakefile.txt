@@ -57,3 +57,4 @@ Fix bug 26-2
 Add new feature 26-3
 Cleanup 27-1
 Fix bug 27-2
+Add docs 27-3
