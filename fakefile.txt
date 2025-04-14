@@ -49,3 +49,4 @@ Minor changes 24-2
 Improve performance 24-3
 Refactor code 24-4
 Add docs 24-5
+Add new feature 25-1
