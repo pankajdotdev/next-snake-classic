@@ -22,3 +22,4 @@ Style fixes 11-1
 Update README 12-1
 Fix bug 12-2
 Improve performance 12-3
+Minor changes 12-4
