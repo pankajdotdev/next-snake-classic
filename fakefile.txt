@@ -20,3 +20,4 @@ Refactor code 9-2
 Initial commit 9-3
 Style fixes 11-1
 Update README 12-1
+Fix bug 12-2
