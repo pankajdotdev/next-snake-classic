@@ -14,3 +14,4 @@ Style fixes 6-1
 Minor changes 6-2
 Fix bug 6-3
 Initial commit 6-4
+Add new feature 7-1
