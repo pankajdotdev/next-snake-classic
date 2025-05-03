@@ -11,3 +11,4 @@ Improve performance 4-4
 Improve performance 4-5
 Add docs 5-1
 Style fixes 6-1
+Minor changes 6-2
