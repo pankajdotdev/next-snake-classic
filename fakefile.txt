@@ -7,3 +7,4 @@ Style fixes 3-4
 Refactor code 4-1
 Refactor code 4-2
 Cleanup 4-3
+Improve performance 4-4
