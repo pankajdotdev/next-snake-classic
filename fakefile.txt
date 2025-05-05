@@ -5,3 +5,4 @@ Fix bug 3-2
 Minor changes 3-3
 Style fixes 3-4
 Refactor code 4-1
+Refactor code 4-2
