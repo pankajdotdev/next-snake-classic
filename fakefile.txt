@@ -6,3 +6,4 @@ Minor changes 3-3
 Style fixes 3-4
 Refactor code 4-1
 Refactor code 4-2
+Cleanup 4-3
